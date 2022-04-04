@@ -1,6 +1,6 @@
-###Project Proposal
+### Project Proposal
 
-#####What is the end service that your project will provide? What is the purpose of the system you plan to build?
+##### What is the end service that your project will provide? What is the purpose of the system you plan to build?
 
 To provide housing recommendations in NYC to the user based on user-input 
 
