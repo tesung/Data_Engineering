@@ -1,15 +1,15 @@
-### Project Proposal
+# Project Proposal
 
-#### What is the end service that your project will provide? What is the purpose of the system you plan to build?
+## What is the end service that your project will provide? What is the purpose of the system you plan to build?
 
 To provide housing recommendations in NYC to the user based on user-input 
 
-#### Who is your client and how will that client benefits from your end service?
+## Who is your client and how will that client benefits from your end service?
 
 Client = Individual investors looking to purchase a new home
 Benefit = Ability to make an informed decision and get the best value per dollar
 
-#### What does your end-to-end data pipeline look like? 
+### What does your end-to-end data pipeline look like? 
 
 Data ingestion: BigQueryData set obtained from Google's BigQuery Public data (export data points from Google Cloud Platform) --> Data storage with SQL --> Processing with python scripts  --> Deployment to web app (Heroku) 
 
