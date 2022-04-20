@@ -2,7 +2,7 @@
 
 ### COVID-19 Data Pipeline & Visualization
 
-App can be found [here] (https://share.streamlit.io/tesung/data_engineering/main/covid_tracker_streamlit.py)
+App can be found here https://share.streamlit.io/tesung/data_engineering/main/covid_tracker_streamlit.py
 
 ##### Abstract
 
